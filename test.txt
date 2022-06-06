@@ -1,12 +1,2 @@
-hello
-ddjfdsfjksdhfdshfsdfsdf
-binh phan van 
-
-binh da change function
-
-oke nhe
-hello cut
-hello Binh phan
-hello huy
-
-hello co
+hello story1
+this is my test case
