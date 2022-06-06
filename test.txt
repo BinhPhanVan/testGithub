@@ -1,2 +1,1 @@
-hello story1
-this is my test case
+this is my story2
